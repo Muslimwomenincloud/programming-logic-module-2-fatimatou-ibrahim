@@ -14,11 +14,11 @@ Submitted by Fatimatou Ibrahim
 ##  Exercise 1 – Hazel’s Housecleaning Service
 
 ### Flowchart:
-![Exercise 1 Flowchart](exercise1.png)
+![Exercise 1 Flowchart image.png](Exercise 1)
 
 ---
 
 ## Exercise 2 – Projected Cost of a Remodeling Job
 
 ### Flowchart:
-![Exercise 2 Flowchart](exercise2.png)
+![Exercise 2 Flowchart image. png](Exercise 2)
