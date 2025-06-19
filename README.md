@@ -7,4 +7,4 @@ This repository contains two completed assignments for Module 2:
 
 Each file includes a flowchart and hierarchy chart designed in Draw.io.
 
-Submitted by Fatima Ibrahim
+Submitted by Fatimatou Ibrahim
