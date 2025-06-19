@@ -14,7 +14,7 @@ Submitted by Fatimatou Ibrahim
 ##  Exercise 1 – Hazel’s Housecleaning Service
 
 ### Flowchart:
-![Exercise 1 Flowchart image.png](Exercise 1)
+![Exercise 1 Flowchart](Exercise1-fatimatouibrahim.png)
 
 ---
 
