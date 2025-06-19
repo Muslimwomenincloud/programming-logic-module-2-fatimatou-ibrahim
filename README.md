@@ -8,3 +8,17 @@ This repository contains two completed assignments for Module 2:
 Each file includes a flowchart and hierarchy chart designed in Draw.io.
 
 Submitted by Fatimatou Ibrahim
+
+---
+
+##  Exercise 1 – Hazel’s Housecleaning Service
+
+### Flowchart:
+![Exercise 1 Flowchart](exercise1.png)
+
+---
+
+## Exercise 2 – Projected Cost of a Remodeling Job
+
+### Flowchart:
+![Exercise 2 Flowchart](exercise2.png)
